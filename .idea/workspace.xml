@@ -1,29 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad753ee-2d54-414b-9d11-7266825bf374" name="Changes" comment="" />
+    <list default="true" id="8ad753ee-2d54-414b-9d11-7266825bf374" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pereval/base/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pereval.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pereval.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pereval/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval/base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pereval/base/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval/base/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pereval/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval/base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pereval/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/pereval/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pereval/pereval/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval/pereval/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pereval/pereval/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pereval/pereval/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2aS690anqvFIsco2gT9KOssSChk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.urls.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "New-API",
+    "last_opened_file_path": "/home/geedy/PycharmProjects/Pereval",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
